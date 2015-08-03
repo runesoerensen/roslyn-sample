@@ -1,0 +1,1 @@
+fooworker: RoslynSample.exe
