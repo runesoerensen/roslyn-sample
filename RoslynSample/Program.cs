@@ -7,7 +7,7 @@ namespace RoslynSample
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello world");
+			Console.WriteLine($"Hello there. The clock is now {DateTime.UtcNow}");
 			Thread.Sleep(5000);
 
 			Console.WriteLine("Bye");
