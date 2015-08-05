@@ -9,8 +9,8 @@
     <ProjectGuid>{1A444F69-FAA0-452B-B093-B20704C4C339}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RoslynSample</RootNamespace>
-    <AssemblyName>RoslynSample</AssemblyName>
+    <RootNamespace>RoslynSample.Worker</RootNamespace>
+    <AssemblyName>Worker</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

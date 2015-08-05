@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace RoslynSample
+namespace RoslynSample.Worker
 {
 	public class Program
 	{
